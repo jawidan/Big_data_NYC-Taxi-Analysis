@@ -1,0 +1,14 @@
+pickup_borough,dropoff_borough,count
+Brooklyn,Manhattan,730
+Queens,Bronx,89
+Bronx,Queens,2
+Staten Island,Queens,1
+Brooklyn,Queens,99
+Queens,Staten Island,2
+Manhattan,Staten Island,8
+Manhattan,Brooklyn,1715
+Manhattan,Queens,3486
+Manhattan,Bronx,228
+Queens,Manhattan,3308
+Bronx,Manhattan,23
+Queens,Brooklyn,497
